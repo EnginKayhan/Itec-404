@@ -30,7 +30,7 @@ If you want to fully experience the app, these are the steps that you have to fo
 The app features:
 * User authentication and authorization
 * Search functionality
-* Order system with cart and shit
+* Order system with cart 
 * Order tracking
 * Restaurants dashboard for managing order and menus
 * Admin dashboard for managing users and the restaurant/s
